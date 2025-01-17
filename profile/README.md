@@ -6,4 +6,3 @@ At **Axion Security**, we aim to advance cybersecurity by creating powerful tool
 
 ## 🔗 Links
 - [Website](https://axionsecurity.vercel.app)
-- [Axion Security Discord](https://discord.gg/MaeUKdqwXC)
