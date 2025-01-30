@@ -6,3 +6,4 @@ At **Axion Security**, we aim to advance cybersecurity by creating powerful tool
 
 ## 🔗 Links
 - [Website](https://axionsec.pro)
+- [Learning Platform](https://learn.axionsec.pro)
