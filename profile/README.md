@@ -49,6 +49,7 @@ Explore our growing library of tools, research, and learning materials:
 # Meet the team!
 
 ![Fourier](https://files.catbox.moe/8bzdoh.gif)
+![Error](https://files.catbox.moe/rpcnvt.png)
 ![Gosugaru](https://files.catbox.moe/xgg8yx.png)
 ![Vanish](https://files.catbox.moe/2uraeq.png)
 ![JoinException](https://files.catbox.moe/sczya3.png)
