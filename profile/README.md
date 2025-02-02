@@ -28,16 +28,6 @@ Explore our growing library of tools, research, and learning materials:
 
 ---
 
-## 🛠️ Featured Tool
-
-| Tool Name | Description | Repository |
-|-----------|-------------|------------|
-| **Cosmic** | Advanced Reverse Engineering tool | [GitHub](https://github.com/Axion-Security/Cosmic) |
-| **AngelWare** | Ransomware Template in python | [GitHub](https://github.com/Axion-Security/AngelWare) |
-| **GoInjection** | Automated SQL Injection written in Golang  | [GitHub](https://github.com/Axion-Security/GoInjection) |
-
-
----
 
 
 
