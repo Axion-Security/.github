@@ -43,7 +43,6 @@ Explore our growing library of tools, research, and learning materials:
   <img src="https://files.catbox.moe/rpcnvt.png" width="100">
   <img src="https://files.catbox.moe/xgg8yx.png" width="100">
   <img src="https://files.catbox.moe/2uraeq.png" width="100">
-  <img src="https://files.catbox.moe/sczya3.png" width="100">
   <img src="https://files.catbox.moe/q0bgr7.png" width="100">
 </div>
 
